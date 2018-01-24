@@ -35,10 +35,11 @@ body {
 }
 
 .story h1 {
+  margin: 0 0 1rem 0;
   display: flex;
   flex-direction: column;
   text-align: center;
-  width: 100%;
+  width: 75%;
   background-color: #ffe200;
   border: 1px Transparent solid;
 }
@@ -50,6 +51,7 @@ body {
   text-align: center;
   background-color: #ffe200;
   width: 75%;
+  margin: 0 0 1.5rem 0;
   padding: 1rem 0 1rem 0;
 }
 
