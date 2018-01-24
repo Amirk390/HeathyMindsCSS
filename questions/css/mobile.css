@@ -45,6 +45,9 @@
     height: 1.5rem;
     margin: 1rem 0.2rem 0 2rem;
   }
+  .story .content {
+    width: 100%;
+  }
   .story h1 {
     width: 100%;
   }
