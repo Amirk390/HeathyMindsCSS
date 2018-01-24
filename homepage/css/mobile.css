@@ -9,10 +9,6 @@
     font-size: 32px;
   }
   .cRight {
-    position: fixed;
-    bottom: 0%;
-    opacity: 0.5;
-    left: 25%;
     font-size: 24px;
   }
   .story .content {

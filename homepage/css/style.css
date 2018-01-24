@@ -1,3 +1,24 @@
+
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.cRight {
+  display: flex;
+  align-self: center;
+  position: fixed;
+  background-color: black;
+  color: #fffed0;
+  bottom: 0%;
+  opacity: 0.75;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  padding: 0 0 0.2rem 0;
+}
+
 nav a {
   text-decoration: none;
   color: white;
