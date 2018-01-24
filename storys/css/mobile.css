@@ -25,13 +25,13 @@
 
 @media only screen and (max-width: 600px) {
   nav button {
-    font-size: 44px;
+    font-size: 32;
   }
   .dropDown:hover .dropContent {
     border-radius: 32px;
   }
   .dropContent a {
-    font-size: 44px;
+    font-size: 32;
   }
   .cRight {
     position: fixed;
