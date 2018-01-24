@@ -8,13 +8,6 @@
   .dropContent a {
     font-size: 32px;
   }
-  .cRight {
-    position: fixed;
-    bottom: 0%;
-    opacity: 0.5;
-    left: 25%;
-    font-size: 24px;
-  }
   .story .content {
     max-width: 100%;
   }
@@ -34,10 +27,11 @@
     font-size: 32;
   }
   .cRight {
-    position: fixed;
-    bottom: 0%;
-    opacity: 0.5;
-    left: 25%;
-    font-size: 24px;
+    font-size: 12px;
   }
+}
+
+.cRight {
+  font-size: 12px;
+}
 }

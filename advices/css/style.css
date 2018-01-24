@@ -9,10 +9,10 @@ body {
 }
 
 .cRight {
-  background-color: black;
-  color: #fffed0;
   display: flex;
   justify-content: center;
+  background-color: black;
+  color: #fffed0;
   bottom: 0%;
   opacity: 0.75;
   width: 100%;

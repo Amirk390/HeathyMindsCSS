@@ -8,13 +8,6 @@
   .dropContent a {
     font-size: 32px;
   }
-  .cRight {
-    position: fixed;
-    bottom: 0%;
-    opacity: 0.5;
-    left: 25%;
-    font-size: 24px;
-  }
 }
 
 @media only screen and (max-width: 600px) {
@@ -27,11 +20,7 @@
   .dropContent a {
     font-size: 32;
   }
-  .cRight {
-    position: fixed;
-    bottom: 0%;
-    opacity: 0.5;
-    left: 25%;
-    font-size: 24px;
-  }
+}
+.cRight {
+  font-size: 12px;
 }

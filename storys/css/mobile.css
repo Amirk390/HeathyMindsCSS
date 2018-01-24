@@ -8,18 +8,18 @@
   .dropContent a {
     font-size: 32px;
   }
-  .cRight {
-    position: fixed;
-    bottom: 0%;
-    opacity: 0.5;
-    left: 25%;
-    font-size: 24px;
-  }
   .story .content {
     max-width: 100%;
   }
   .comments {
     max-width: 100%;
+  }
+  .story .tags {
+    border-radius: 1rem;
+    color: white;
+    width: 5rem;
+    height: 1.5rem;
+    margin: 1rem 0.2rem 0 2rem;
   }
 }
 
@@ -34,10 +34,25 @@
     font-size: 32;
   }
   .cRight {
-    position: fixed;
-    bottom: 0%;
-    opacity: 0.5;
-    left: 25%;
-    font-size: 24px;
+    font-size: 12px;
+  }
+  .likesContainer {
+    margin: 0 0 0 5%;
+  }
+  .viewsContainer {
+    margin: 0 0 0 5%;
+  }
+  .story .info {
+    width: 100%;
+  }
+  .cRight {
+    font-size: 12px;
+  }
+  .story .tags {
+    border-radius: 1rem;
+    color: white;
+    width: 5rem;
+    height: 1.5rem;
+    margin: 1rem 0.2rem 0 2rem;
   }
 }
