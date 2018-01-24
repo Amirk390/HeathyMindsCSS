@@ -8,12 +8,21 @@ body {
   font-family: 'Libre Baskerville', serif;
 }
 
+article {
+  display: flex;
+  justify-content: center;
+  height: 42rem;
+}
+
 .cRight {
-  position: fixed;
-  bottom: 0%;
-  opacity: 0.5;
-  left: 35%;
-  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  background-color: black;
+  color: #fffed0;
+  opacity: 0.75;
+  width: 100%;
+  padding: 0 0 0.2rem 0;
 }
 
 .storyContainer {
